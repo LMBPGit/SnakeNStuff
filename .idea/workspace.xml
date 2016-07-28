@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7809cf24-e48f-45cf-b053-af134bdbad30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SnakeNStuff.iws" />
@@ -547,7 +546,7 @@
       <updated>1469704545795</updated>
       <workItem from="1469704548068" duration="93000" />
       <workItem from="1469704795292" duration="645000" />
-      <workItem from="1469705544572" duration="132000" />
+      <workItem from="1469705544572" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="Added start class&#10;">
       <created>1469705316773</created>
@@ -556,11 +555,18 @@
       <option name="project" value="LOCAL" />
       <updated>1469705316773</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added start class&#10;">
+      <created>1469705678958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1469705678958</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="870000" />
+    <option name="totallyTimeSpent" value="875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
