@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7809cf24-e48f-45cf-b053-af134bdbad30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TestClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/New Text Document.txt" afterPath="$PROJECT_DIR$/Plan.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SnakeNStuff.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+            <state relative-caret-position="36">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Plan.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Plan.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -48,6 +60,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Plan.txt" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -490,12 +509,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469704545795</updated>
-      <workItem from="1469704548068" duration="93000" />
+      <workItem from="1469704548068" duration="387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93000" />
+    <option name="totallyTimeSpent" value="387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -544,8 +563,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        <state relative-caret-position="36">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plan.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding />
         </state>
       </provider>

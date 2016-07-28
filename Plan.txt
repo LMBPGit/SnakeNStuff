@@ -1,0 +1,4 @@
+MAIN klasse
+gui start klasse
+    m. startmetode
+trådklasse
